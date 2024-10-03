@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/tic-tac-toe-game.git
+git clone https://github.com/isachinpnr/Tic-Toc-Toe---Basic-Game.git
 Navigate to the project directory:
 
 bash
