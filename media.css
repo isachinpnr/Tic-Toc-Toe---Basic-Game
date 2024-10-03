@@ -1,0 +1,58 @@
+@media screen and (max-width : 830px){
+    h1#mainHD{
+        margin-top: 7%;
+        font-size: 65px;
+    }
+    #resetBtn{
+        margin-top: 10%;
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width : 800px) {
+    .container {
+        height: 60vh;
+        display: block;
+        margin-left: 20%;
+
+    }
+
+    #resetBtn {
+        margin-top: 10%;
+    }
+
+    h1#mainHD {
+        font-size: 63px;
+        margin-top: 12%;
+        margin-right: 25%;
+    }
+    .game{
+        margin-top: 10%;
+    }
+}
+@media screen and (max-width : 680px){
+    h1#mainHD{
+        font-size: 62px;
+    }
+}
+@media screen and (max-width : 670px){
+    h1#mainHD{
+        font-size: 55px;
+    }
+}
+@media screen and (max-width : 594px){
+    h1#mainHD{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width : 445px){
+    h1#mainHD{
+        font-size: 40px;
+    }
+    .game{
+        margin-top: 30%;
+        gap: 2.5vmin;
+    }
+    #resetBtn{
+        margin-top: 0%;
+    }
+}
