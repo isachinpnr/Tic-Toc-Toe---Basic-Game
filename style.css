@@ -7,8 +7,9 @@ body {
     background-color: #548687;
     text-align: center;
 }
-h1#mainHD{
-  font-size: 45px;
+
+h1#mainHD {
+    font-size: 45px;
 }
 
 .container {
@@ -68,7 +69,8 @@ h1#mainHD{
     color: #ffffc7;
     font-size: 5vmin;
 }
-.msg-Container{
+
+.msg-Container {
     height: 100vmin;
     display: flex;
     justify-content: center;
@@ -76,6 +78,15 @@ h1#mainHD{
     flex-direction: column;
     gap: 4rem;
 }
-.hide{
+
+.hide {
     display: none;
+}
+
+.blue {
+    color: blue;
+}
+
+.brown {
+    color: #b0413e;
 }

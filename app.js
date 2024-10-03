@@ -31,11 +31,14 @@ boxes.forEach((box) => {
             //playerO
             box.innerText = "O";
             turnO = false;
-            box.style.color = "blue";
+            box.classList.add("blue");
+            box.classList.remove("brown");
         } else{
             //playerX
             box.innerText = "X";
             turnO = true;
+            box.classList.add("brown");
+            box.classList.remove("blue");
         }
         box.disabled = true;
 
